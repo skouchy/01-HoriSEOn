@@ -91,30 +91,10 @@ p {
     color: #ffffff;
 }
 
-/* #brand-awareness {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#cost-management {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* #brand-awareness h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#cost-management h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 .benefit img {
     display: block;
@@ -122,17 +102,6 @@ p {
     max-width: 150px;
 }
 
-/* #brand-awareness img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-#cost-management img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 .card {
     margin-bottom: 20px;
@@ -143,50 +112,17 @@ p {
     color: #ffffff;
 }
 
-/* #online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
 
 .card img {
     max-height: 200px;
 }
 
-/* #online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-} */
 
 .card h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* #online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 footer {
     padding: 30px;
